@@ -1,0 +1,222 @@
+[
+  {
+    "id": "wugong",
+    "name": "武功山",
+    "region": "江西 · 萍乡 / 宜春 / 吉安",
+    "english": "WUGONG MOUNTAINS",
+    "variant": "反穿线",
+    "tags": "高山草甸 / 山脊穿越",
+    "center": [
+      114.19,
+      27.49
+    ],
+    "description": "将连绵的草甸收进眼底，把脚步留在山脊线上。",
+    "trackStatus": "verified",
+    "routeUrl": "route.json",
+    "terrainUrl": "terrain.json",
+    "sourceUrl": "https://www.2bulu.com/",
+    "geoSourceUrl": "https://www.2bulu.com/",
+    "scope": "导入轨迹周边",
+    "isTopTen": false
+  },
+  {
+    "id": "motuo",
+    "name": "墨脱",
+    "region": "西藏 · 林芝",
+    "english": "MEDOG",
+    "variant": "派墨古道区域",
+    "tags": "雪山 / 深谷 / 森林",
+    "center": [
+      95.02,
+      29.43
+    ],
+    "description": "雪山与峡谷相接，地形沿山谷层层下降。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/motuo.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://www.columbiasports.cn/campaign/gonglue/motuo.pdf",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "kailash",
+    "name": "冈仁波齐",
+    "region": "西藏 · 阿里",
+    "english": "MOUNT KAILASH",
+    "variant": "转山线",
+    "tags": "雪峰 / 高原",
+    "center": [
+      81.3125,
+      31.06667
+    ],
+    "description": "围绕冈底斯山中的雪峰，观察高原谷地与山脊。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/kailash.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://zh.wikipedia.org/wiki/冈仁波齐峰",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "tiger",
+    "name": "虎跳峡",
+    "region": "云南 · 迪庆",
+    "english": "TIGER LEAPING GORGE",
+    "variant": "高路线",
+    "tags": "峡谷 / 雪山",
+    "center": [
+      100.13,
+      27.22
+    ],
+    "description": "金沙江切开群山，峡谷两侧山体相向而立。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/tiger.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://tubudili.com/en/tiger-leaping-gorge-high-trail/",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "yubeng",
+    "name": "雨崩",
+    "region": "云南 · 迪庆",
+    "english": "YUBENG",
+    "variant": "雨崩徒步",
+    "tags": "雪山 / 森林",
+    "center": [
+      98.79,
+      28.4
+    ],
+    "description": "在梅里雪山东麓，辨认村落周围的山谷起伏。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/yubeng.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://tubudili.com/zh/yubeng-shenpu-oneway/",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "taihang",
+    "name": "南太行",
+    "region": "河南 · 新乡",
+    "english": "SOUTH TAIHANG",
+    "variant": "南太行徒步",
+    "tags": "崖壁 / 峡谷",
+    "center": [
+      113.62,
+      35.74
+    ],
+    "description": "山地与平原在这里交会，沟壑勾勒出太行的轮廓。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/taihang.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://www.earthol.com/view-10277.html",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "changchuanbi",
+    "name": "长穿毕",
+    "region": "四川 · 阿坝",
+    "english": "CHANGPING TO BIPENG",
+    "variant": "长坪沟—毕棚沟",
+    "tags": "山谷 / 垭口 / 雪峰",
+    "center": [
+      102.86,
+      31.14
+    ],
+    "description": "长坪沟与毕棚沟之间，山谷被高高的山脊分隔。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/changchuanbi.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://en-gb.topographic-map.com/map-hswnmt/长坪沟/",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "gongga",
+    "name": "贡嘎",
+    "region": "四川 · 甘孜",
+    "english": "GONGGA MOUNTAINS",
+    "variant": "贡嘎大环线",
+    "tags": "雪峰 / 冰川 / 峡谷",
+    "center": [
+      101.87889,
+      29.59521
+    ],
+    "description": "横断山脉的高差，在密集的山峰和谷地间展开。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/gongga.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://www.fnrrc.com/ziranbaohuqujianjie/9804.html",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "kalajun",
+    "name": "喀拉峻",
+    "region": "新疆 · 伊犁",
+    "english": "KALAJUN",
+    "variant": "草原徒步",
+    "tags": "草原 / 河谷",
+    "center": [
+      82.15,
+      43.0765
+    ],
+    "description": "由天山向河谷延伸的山坡，承接开阔草原。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/kalajun.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://www.bbkz.com/forum/map.php?discover=&gid=14483&gtype=spot",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "wusun",
+    "name": "乌孙古道",
+    "region": "新疆 · 伊犁 / 阿克苏",
+    "english": "WUSUN ANCIENT TRAIL",
+    "variant": "天山穿越",
+    "tags": "雪岭 / 湖泊 / 山谷",
+    "center": [
+      82.385,
+      42.58
+    ],
+    "description": "以天堂湖附近为中心，查看天山南北的山地格局。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/wusun.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://zh.wikipedia.org/wiki/乌孙古道",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  },
+  {
+    "id": "tengger",
+    "name": "腾格里",
+    "region": "内蒙古 · 阿拉善",
+    "english": "TENGGER DESERT",
+    "variant": "五湖连穿",
+    "tags": "沙漠 / 湖盆",
+    "center": [
+      105.3,
+      38.5
+    ],
+    "description": "沙海与湖盆交错，地形起伏比高山更加平缓。",
+    "trackStatus": "pending",
+    "routeUrl": null,
+    "terrainUrl": "terrains/tengger.json",
+    "sourceUrl": "https://paper.xinmin.cn/html/xmzk/2025-11-17/56/42043.html",
+    "geoSourceUrl": "https://zh.wikipedia.org/wiki/腾格里沙漠",
+    "scope": "代表区域地形，非完整线路范围",
+    "isTopTen": true
+  }
+]
